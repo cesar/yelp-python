@@ -1,0 +1,892 @@
+{
+  "businesses": [
+    {
+      "alias": "seniores-pizza-san-bruno-4",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.627449,
+        "longitude": -122.416373
+      },
+      "display_phone": "(650) 952-4100",
+      "distance": 164.75264463243948,
+      "id": "5VdBW-nXKmZS1E6Dh5uMdQ",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r7M5LEWQVKxJ9qb7A0mScg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "730 Kains Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "730 Kains Ave",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Seniore's Pizza",
+      "phone": "+16509524100",
+      "price": "$$",
+      "rating": 3.5,
+      "review_count": 296,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/seniores-pizza-san-bruno-4?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "atlas-pizza-parlor-san-bruno-4",
+      "categories": [
+        {
+          "alias": "chicken_wings",
+          "title": "Chicken Wings"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.62715,
+        "longitude": -122.41161
+      },
+      "display_phone": "(650) 588-5888",
+      "distance": 554.7944356681596,
+      "id": "EQhq6_KfU-QhwrsDZXaykw",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UbDmWUidzdLqWHB3enwd-g/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "637 San Mateo Ave",
+        "address2": "",
+        "address3": null,
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "637 San Mateo Ave",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Atlas Pizza Parlor",
+      "phone": "+16505885888",
+      "price": "$$",
+      "rating": 4.0,
+      "review_count": 254,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/atlas-pizza-parlor-san-bruno-4?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "totos-pizzeria-san-bruno",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.61385,
+        "longitude": -122.40434
+      },
+      "display_phone": "(650) 873-8686",
+      "distance": 1846.2769028994426,
+      "id": "zeAyrFZhpT2WUH6S92bmBA",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PeVRWM0z0-HbXDM7-mJmFA/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "1690 El Camino Real",
+        "address2": "",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "1690 El Camino Real",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Toto's Pizzeria",
+      "phone": "+16508738686",
+      "price": "$$",
+      "rating": 4.0,
+      "review_count": 867,
+      "transactions": [
+        "delivery"
+      ],
+      "url": "https://www.yelp.com/biz/totos-pizzeria-san-bruno?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "zorbas-pizza-millbrae",
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.61148,
+        "longitude": -122.40303
+      },
+      "display_phone": "(650) 875-1616",
+      "distance": 2130.5079157349096,
+      "id": "vOkiTLs9MVLx6_jtIjT-GA",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qZi9KaL40XKALPWfFoVIdg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "1567 El Camino Real",
+        "address2": "",
+        "address3": "",
+        "city": "Millbrae",
+        "country": "US",
+        "display_address": [
+          "1567 El Camino Real",
+          "Millbrae, CA 94030"
+        ],
+        "state": "CA",
+        "zip_code": "94030"
+      },
+      "name": "Zorba's Pizza",
+      "phone": "+16508751616",
+      "price": "$$",
+      "rating": 4.0,
+      "review_count": 491,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/zorbas-pizza-millbrae?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "new-york-pizza-san-bruno",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.63071,
+        "longitude": -122.4065
+      },
+      "display_phone": "(650) 876-9999",
+      "distance": 1103.062162771681,
+      "id": "ZtTU1nouWYzqGmIbxp53oQ",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V1FcOkShyoJyEn7EHFH1LQ/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "700 San Bruno E Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "700 San Bruno E Ave",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "New York Pizza",
+      "phone": "+16508769999",
+      "price": "$$",
+      "rating": 3.5,
+      "review_count": 147,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/new-york-pizza-san-bruno?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "speedys-pizza-and-grill-south-san-francisco",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.649896,
+        "longitude": -122.430765
+      },
+      "display_phone": "(650) 871-1441",
+      "distance": 2826.176521354491,
+      "id": "SLPahSbiIA7pbjpRXbIfhw",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jtsBD-Ge0slJ90MW7yky5Q/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "687 El Camino Real",
+        "address2": "",
+        "address3": null,
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "687 El Camino Real",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Speedy's Pizza And Grill",
+      "phone": "+16508711441",
+      "rating": 4.5,
+      "review_count": 10,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/speedys-pizza-and-grill-south-san-francisco?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "extreme-pizza-san-bruno-san-bruno",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6266699307089,
+        "longitude": -122.425672531213
+      },
+      "display_phone": "(650) 873-6336",
+      "distance": 683.8656864995663,
+      "id": "jghAfDwrsJ46I8LrVllS8w",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fH_vIh9HC9Ei4sYKr5juUg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "851 Cherry Ave",
+        "address2": "Ste 8",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "851 Cherry Ave",
+          "Ste 8",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Extreme Pizza - San Bruno",
+      "phone": "+16508736336",
+      "price": "$$",
+      "rating": 2.5,
+      "review_count": 186,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/extreme-pizza-san-bruno-san-bruno?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "bertoluccis-south-san-francisco",
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.656501,
+        "longitude": -122.407958
+      },
+      "display_phone": "(650) 588-1625",
+      "distance": 3440.847754839421,
+      "id": "ASRswba4TekZnxzar15qqg",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/skFx84QgASYl1hHrihTWjQ/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "421 Cypress Ave",
+        "address2": "",
+        "address3": "",
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "421 Cypress Ave",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Bertolucci's",
+      "phone": "+16505881625",
+      "price": "$$",
+      "rating": 4.0,
+      "review_count": 887,
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "url": "https://www.yelp.com/biz/bertoluccis-south-san-francisco?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "dinapoli-ristorante-and-pizzeria-south-san-francisco-2",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6549908,
+        "longitude": -122.4087366
+      },
+      "display_phone": "(650) 873-5252",
+      "distance": 3260.7334759849305,
+      "id": "iEk34XVa-aOOwjlw2GT4Bw",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZyPCwNf5lODFRCbp-mCJow/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "202 Grand Ave",
+        "address2": "",
+        "address3": "",
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "202 Grand Ave",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "DiNapoli Ristorante & Pizzeria",
+      "phone": "+16508735252",
+      "price": "$$",
+      "rating": 3.5,
+      "review_count": 492,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/dinapoli-ristorante-and-pizzeria-south-san-francisco-2?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "papa-murphys-millbrae-2",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6099177,
+        "longitude": -122.4016671
+      },
+      "display_phone": "(650) 827-0200",
+      "distance": 2342.6030441289613,
+      "id": "QoCR9UhMwlYSlK-KlS29YA",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JCcTB_EXra8E7wLeI8TtgQ/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "1395 El Camino Real, Unit B",
+        "address2": null,
+        "address3": "",
+        "city": "Millbrae",
+        "country": "US",
+        "display_address": [
+          "1395 El Camino Real, Unit B",
+          "Millbrae, CA 94030"
+        ],
+        "state": "CA",
+        "zip_code": "94030"
+      },
+      "name": "Papa Murphy's",
+      "phone": "+16508270200",
+      "price": "$$",
+      "rating": 4.5,
+      "review_count": 49,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/papa-murphys-millbrae-2?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "papa-johns-pizza-san-bruno",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6292132,
+        "longitude": -122.4114649
+      },
+      "display_phone": "(650) 583-7272",
+      "distance": 628.4969954565786,
+      "id": "FE8KYUJoWl0tqdsZuf6Kuw",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tNO4Ya9XJVVxION5HBpHeQ/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "735 San Mateo Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "735 San Mateo Ave",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Papa John's Pizza",
+      "phone": "+16505837272",
+      "price": "$",
+      "rating": 2.5,
+      "review_count": 114,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/papa-johns-pizza-san-bruno?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "zorbas-pizza-and-pasta-south-san-francisco-2",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6424176,
+        "longitude": -122.4258754
+      },
+      "display_phone": "(650) 873-7799",
+      "distance": 1893.8576094844361,
+      "id": "3T_3fpBYl00TpzqkEoNoGw",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xPU-VjErlOmuWcaeiAtUpg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "106 Hazelwood Dr",
+        "address2": "",
+        "address3": "",
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "106 Hazelwood Dr",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Zorba's Pizza & Pasta",
+      "phone": "+16508737799",
+      "price": "$$",
+      "rating": 3.0,
+      "review_count": 157,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/zorbas-pizza-and-pasta-south-san-francisco-2?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "andiamo-in-banca-south-san-francisco-3",
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6552841359076,
+        "longitude": -122.410325181808
+      },
+      "display_phone": "(650) 745-8811",
+      "distance": 3258.466610668478,
+      "id": "svPDsuBggEBXnBbU-mknVQ",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rvp-m-FV8QXnc0kRglVzEw/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "301 Linden Ave",
+        "address2": "",
+        "address3": null,
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "301 Linden Ave",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Andiamo In Banca",
+      "phone": "+16507458811",
+      "price": "$$",
+      "rating": 4.5,
+      "review_count": 127,
+      "transactions": [],
+      "url": "https://www.yelp.com/biz/andiamo-in-banca-south-san-francisco-3?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "pita-gyros-san-bruno-2",
+      "categories": [
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "greek",
+          "title": "Greek"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.637956,
+        "longitude": -122.417793
+      },
+      "display_phone": "(650) 636-4183",
+      "distance": 1262.5769336035114,
+      "id": "kdH8zDNfSqYr-RsonBubSQ",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ErFcUrwHd7GHGBG7t8A1Hg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "1150 El Camino Real",
+        "address2": null,
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "1150 El Camino Real",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "Pita Gyros",
+      "phone": "+16506364183",
+      "price": "$",
+      "rating": 4.0,
+      "review_count": 52,
+      "transactions": [],
+      "url": "https://www.yelp.com/biz/pita-gyros-san-bruno-2?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "o-sole-mio-restaurant-millbrae",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.60143,
+        "longitude": -122.39203
+      },
+      "display_phone": "(650) 692-7905",
+      "distance": 3610.98834621226,
+      "id": "BNJBo4d57vJcicVaCFOztA",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4-1w5bZgf9eQ2fBXa5G_0Q/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "352 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Millbrae",
+        "country": "US",
+        "display_address": [
+          "352 Broadway",
+          "Millbrae, CA 94030"
+        ],
+        "state": "CA",
+        "zip_code": "94030"
+      },
+      "name": "O' Sole Mio Restaurant",
+      "phone": "+16506927905",
+      "price": "$$",
+      "rating": 4.0,
+      "review_count": 276,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/o-sole-mio-restaurant-millbrae?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "little-caesars-pizza-millbrae",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6032129,
+        "longitude": -122.3960928
+      },
+      "display_phone": "(650) 692-7200",
+      "distance": 3244.459239291604,
+      "id": "Qbq9F4Oi963eumF64FteTw",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VzeDEO3SfQXpbFWwhLQRAw/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "660 Magnolia Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Millbrae",
+        "country": "US",
+        "display_address": [
+          "660 Magnolia Ave",
+          "Millbrae, CA 94030"
+        ],
+        "state": "CA",
+        "zip_code": "94030"
+      },
+      "name": "Little Caesars Pizza",
+      "phone": "+16506927200",
+      "price": "$",
+      "rating": 3.5,
+      "review_count": 60,
+      "transactions": [],
+      "url": "https://www.yelp.com/biz/little-caesars-pizza-millbrae?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "prontos-south-san-francisco",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.65456,
+        "longitude": -122.40853
+      },
+      "display_phone": "(650) 873-1324",
+      "distance": 3224.103072343696,
+      "id": "k7he4zwy8iCIfCIpLAw8Qw",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SpPxVqZq1nIOmCiAX6AGgQ/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "113 Grand Ave",
+        "address2": null,
+        "address3": null,
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "113 Grand Ave",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Pronto's",
+      "phone": "+16508731324",
+      "price": "$$",
+      "rating": 3.5,
+      "review_count": 270,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/prontos-south-san-francisco?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "round-table-pizza-south-san-francisco-4",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.6557417150297,
+        "longitude": -122.433014374034
+      },
+      "display_phone": "(650) 742-9755",
+      "distance": 3492.9578017982312,
+      "id": "fnPcXhkaCeRWn5xAviM8pQ",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZCh7MgV0qTyw5BCpWPo3Dw/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "20 Chestnut Ave",
+        "address2": "",
+        "address3": "",
+        "city": "South San Francisco",
+        "country": "US",
+        "display_address": [
+          "20 Chestnut Ave",
+          "South San Francisco, CA 94080"
+        ],
+        "state": "CA",
+        "zip_code": "94080"
+      },
+      "name": "Round Table Pizza",
+      "phone": "+16507429755",
+      "price": "$$",
+      "rating": 3.0,
+      "review_count": 88,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/round-table-pizza-south-san-francisco-4?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "round-table-pizza-millbrae",
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.60195,
+        "longitude": -122.39268
+      },
+      "display_phone": "(650) 697-5520",
+      "distance": 3528.0261192523276,
+      "id": "RjbHoQL2-rEzFIn6SskskA",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wMEC3c4CQMQSAocoDH-Vvg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "414 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Millbrae",
+        "country": "US",
+        "display_address": [
+          "414 Broadway",
+          "Millbrae, CA 94030"
+        ],
+        "state": "CA",
+        "zip_code": "94030"
+      },
+      "name": "Round Table Pizza",
+      "phone": "+16506975520",
+      "price": "$$",
+      "rating": 3.0,
+      "review_count": 72,
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "url": "https://www.yelp.com/biz/round-table-pizza-millbrae?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    },
+    {
+      "alias": "bjs-restaurant-and-brewhouse-san-bruno",
+      "categories": [
+        {
+          "alias": "breweries",
+          "title": "Breweries"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "coordinates": {
+        "latitude": 37.635587,
+        "longitude": -122.418647
+      },
+      "display_phone": "(650) 243-4530",
+      "distance": 1001.2348393669494,
+      "id": "FMGNn9O4yU3HeM2UQ7aM0w",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZHQ2dMCiyyX8h59P8ZcAGg/o.jpg",
+      "is_closed": false,
+      "location": {
+        "address1": "1140 El Camino Real",
+        "address2": "Ste 271",
+        "address3": "",
+        "city": "San Bruno",
+        "country": "US",
+        "display_address": [
+          "1140 El Camino Real",
+          "Ste 271",
+          "San Bruno, CA 94066"
+        ],
+        "state": "CA",
+        "zip_code": "94066"
+      },
+      "name": "BJ's Restaurant & Brewhouse",
+      "phone": "+16502434530",
+      "price": "$$",
+      "rating": 2.5,
+      "review_count": 2204,
+      "transactions": [
+        "delivery"
+      ],
+      "url": "https://www.yelp.com/biz/bjs-restaurant-and-brewhouse-san-bruno?adjust_creative=eFqOoq9IOqnzsdQr3W_SUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=eFqOoq9IOqnzsdQr3W_SUA"
+    }
+  ],
+  "region": {
+    "center": {
+      "latitude": 37.62660172369216,
+      "longitude": -122.41790771484375
+    }
+  },
+  "total": 148
+}

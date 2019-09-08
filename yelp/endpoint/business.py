@@ -3,6 +3,7 @@ from __future__ import absolute_import
 from __future__ import unicode_literals
 
 from yelp.config import BUSINESS_PATH
+from yelp.config import SEARCH_PATH
 from yelp.obj.business import Business
 
 
@@ -27,3 +28,16 @@ class BusinessEndpoints(object):
         business_path = BUSINESS_PATH.format(business_id=business_id)
         response = self.client._make_request(business_path, url_params=url_params)
         return Business(response)
+
+    def search(self, **url_params):
+        """Make a request to the business search endpoint. More info at
+        https://www.yelp.com/developers/documentation/v3/business_search
+
+        Args:
+            **url_params: Dict corresponding to business API params
+                https://www.yelp.com/developers/documentation/v3/business_search
+        Returns:
+            list of yelp.obj.business.Business objects which wrap the response
+        """
+        response = self.client._make_request(SEARCH_PATH, url_params=url_params)
+        return [Business(biz) for biz in response["businesses"]]
